@@ -1,0 +1,4 @@
+"" Source your .vimrc
+source ~/.vimrc
+
+set surround
